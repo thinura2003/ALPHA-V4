@@ -30,6 +30,45 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thinura2003/ALPHA-V4)
 </div>
 
+<p align="center">
+  <a href="https://github.com/AchiyaCT/ALPHA-V4">
+    <img src="https://img.shields.io/docker/pulls/AchiyaCT/ALPHA-V4?style=flat-square&label=Docker+Pulls">
+  </a>
+  <a href="https://github.com/AchiyaCT/ALPHA-V4">
+    <img src="https://img.shields.io/docker/image-size/AchiyaCT/ALPHA-V4?style=flat-square&logo=github&label=Image Size">
+    
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/thinura2003/ALPHA-V4">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthinura2003%2FALPHA-V4&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/thinura2003/ALPHA-V4">
+    <img src="https://img.shields.io/github/forks/thinura2003/ALPHA-V4?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/thinura2003/ALPHA-V4/stargazers">
+    <img src="https://img.shields.io/github/stars/thinura2003/ALPHA-V4?style=social">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thinura2003/ALPHA-V4">
+    <img src="https://img.shields.io/github/repo-size/thinura2003/ALPHA-V4?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
+  <a href="https://github.com/thinura2003/ALPHA-V4">
+    <img src="https://img.shields.io/github/license/thinura2003/ALPHA-V4?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/thinura2003/ALPHA-V4">
+    <img src="https://img.shields.io/github/languages/top/thinura2003/ALPHA-V4?color=purple&label=Javascript&style=plastic">
+  </p>
+
+
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 ## Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)  | [![CW4RR10R](https://github.com/CW4RR10R.png?size=50)](https://github.com/CW4RR10R)
